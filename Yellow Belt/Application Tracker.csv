@@ -1,0 +1,10 @@
+﻿Application,Company,Cover Letter File,Date Applied,Follow-up Date,Follow-up Due,Follow-up Sent?,Job URL,Notes,Response?,Resume File,Role,Source,Status,Time Spent (min)
+Acme Co — BI Analyst,Acme Co,,"June 2, 2026","June 9, 2026",⚠️ Follow up,No,https://example.com/acme-bi-analyst,Sample: tailored resume; waiting on response.,No,,BI Analyst,Indeed,Submitted,38
+Northwind — Data Analyst,Northwind,,"May 28, 2026","June 4, 2026",⚠️ Follow up,No,https://example.com/northwind-data-analyst,Sample: applied via LinkedIn; no reply yet.,No,,Data Analyst,LinkedIn,Submitted,52
+Soylent — Data Analyst,Soylent,,"May 20, 2026","May 27, 2026",,Yes,https://example.com/soylent-data-analyst,Sample: offer received; reviewing details.,Yes,,Data Analyst,LinkedIn,Offer,48
+Globex — Data Analyst,Globex,,"May 30, 2026","June 6, 2026",,Yes,https://example.com/globex-data-analyst,Sample: recruiter reached out; screening scheduled.,Yes,,Data Analyst,LinkedIn,Interviewing,45
+Stark Industries — Jr Analyst,Stark Industries,,"June 10, 2026","June 17, 2026",,No,https://example.com/stark-jr-analyst,Sample: intro from a contact; prepping materials.,No,,Jr Analyst,Referral,Active,42
+Umbra — Reporting Analyst,Umbra,,"May 18, 2026",,,No,https://example.com/umbra-reporting-analyst,Sample: rejection received; archived.,Yes,,Reporting Analyst,Indeed,Closed–Rejected,35
+Vandelay — Analyst,Vandelay,,"June 12, 2026","June 19, 2026",,No,https://example.com/vandelay-analyst,Sample: campus portal submission; tracking.,No,,Analyst,Handshake,Active,50
+Cyberdyne — BI Analyst,Cyberdyne,,"June 5, 2026","June 12, 2026",⚠️ Follow up,No,https://example.com/cyberdyne-bi-analyst,Sample: follow-up overdue; send message.,No,,BI Analyst,LinkedIn,Submitted,57
+,,,,,,No,,,No,,,,,
